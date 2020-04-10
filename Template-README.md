@@ -2,10 +2,10 @@
 <br style="line-height: 12px">
 <img src="https://avatars2.githubusercontent.com/u/60420479?v=4" style= "width: 200px; height: 150px">
 
-# ReadME generator
+# test
 
 ## <h2 id="#description">Project Description</h2>
-Generates a readme template.
+test
 
 ## Table of Contents
 
@@ -17,10 +17,10 @@ Generates a readme template.
 * <a href="#contact">Contact</a>
 
 ## <h2 id="installation">Installation</h2>
-nmp install
+npm install
     
 ## <h2 id="technology">Technologies Used</h2>
-Javascript,Node.JS,GitHUB
+
 
 ## <h2 id="contributors">Contributors</h2>
 [rwilliamsIII](rwilliamsIII)
@@ -29,6 +29,6 @@ Javascript,Node.JS,GitHUB
 
 * #### Name: Robert Williams
 * #### GitHUB: https://github.com/rwilliamsIII
-* #### Portfolio: [n/a](n/a)
+* #### Portfolio: [test](test)
 * #### Email: robert@a3marketing.com
-* #### LinkedIN: [https://www.linkedin.com/in/robertwilliams2715/](https://www.linkedin.com/in/robertwilliams2715/)
+* #### LinkedIN: [test](test)

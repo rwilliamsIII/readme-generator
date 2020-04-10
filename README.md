@@ -18,6 +18,9 @@ Generates a readme template based on user input.
 
 ## <h2 id="installation">Installation</h2>
 Clone the repo on to your local machine and run an "npm install" in the terminal to download necessary modules. Once everything is installed, return to github and register for a key with user access(this can be accomplished by going to your user settings on github and clicking the develop tag). You will place this key in a ".env" file like so[GH_Key=YOURKEYGOESHERE]. Once that is completed go back in to the terminal and type in "node index.js" and press enter. After you press enter a series of questions will appear in the terminal. Answering all the questions will generate a ReadME.md file based on the criteria you entered.
+
+## <h2 id="example">Application Example</h2>
+<img src="assets/node-application-example.gif">
     
 ## <h2 id="technology">Technologies Used</h2>
 Javascript,Node.JS,GitHUB
